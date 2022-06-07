@@ -31,6 +31,7 @@ bash run_fewrel.sh
 
 
 ### Citation
+```
 @inproceedings{arora-etal-2022-metadata,
     title = "Metadata Shaping: A Simple Approach for Knowledge-Enhanced Language Models",
     author = "Arora, Simran  and Wu, Sen  and Liu, Enci  and Ré, Christopher",
@@ -43,4 +44,5 @@ bash run_fewrel.sh
     doi = "10.18653/v1/2022.findings-acl.137",
     pages = "1733--1745",
 }
+```
 
