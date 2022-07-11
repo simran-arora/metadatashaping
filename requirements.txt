@@ -14,3 +14,4 @@ torchtext==0.4.0
 tqdm==4.51.0
 transformers==4.1.1
 ujson==1.35
+emmental==0.0.9
