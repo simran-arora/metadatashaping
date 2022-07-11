@@ -11,6 +11,7 @@ TASK_TYPE=${30:-classification}
 DATA=${2:-/data/fewrel_shaped/}
 MODEL=${3:-transformer}
 SEED=${5:-42}
+GPU=${6:-0}
 NEPOCHS=${9-20}
 LR=${10-2e-5}
 L2=${11-0}
